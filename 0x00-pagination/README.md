@@ -21,16 +21,16 @@ Ensure that you have Python installed on your machine. Additionally, you may nee
 * cd 0x04-pagination
 
 2. Create a virtual environment and activate it:
-*python3 -m venv venv     (This will create the virtual environment)
-*. . venv/bin/activate    (this will activate the venv)
+* python3 -m venv venv     (This will create the virtual environment)
+* . . venv/bin/activate    (this will activate the venv)
 
-3. Install the required dependencies:
-*pip install -r requirements.txt
+4. Install the required dependencies:
+* pip install -r requirements.txt
 
-4. Set up environment variables (if applicable) for database connections or API keys.
+5. Set up environment variables (if applicable) for database connections or API keys.
 
-5. Run the application:
-*python3 app.py
+6. Run the application:
+* python3 app.py
 
 **Running Tests**
 You can run the unit tests to verify the functionality:
