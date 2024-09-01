@@ -17,8 +17,8 @@ Ensure that you have Python installed on your machine. Additionally, you may nee
 
 **Steps**
 1. Clone the repository:
-*git clone https://github.com/yourusername/0x04-pagination.git
-cd 0x04-pagination
+* git clone https://github.com/yourusername/0x04-pagination.git
+* cd 0x04-pagination
 
 2. Create a virtual environment and activate it:
 *python3 -m venv venv     (This will create the virtual environment)
